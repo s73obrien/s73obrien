@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=s73obrien)
+![](https://komarev.com/ghpvc/?username=s73obrien&color=blue&style=flat-square&label=Instance+%23)
 
 <!--
 **s73obrien/s73obrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
